@@ -34,8 +34,14 @@ html{
 }
 
 h2{
-  color: black;
+  color: rgb(64, 144, 98);
 /*   font-size: 10px; */
+  font-family: "Playwrite NZ"
+    ;
+}
+
+p{
+  font-family: "Playwrite NZ";
 }
 
 #start{
